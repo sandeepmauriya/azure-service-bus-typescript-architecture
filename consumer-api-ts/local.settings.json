@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsServiceBus": "your-service-bus-connection-string",  
+      "FUNCTIONS_WORKER_RUNTIME": "node",
+      "AZURE_AD_JWKS_URI": "your-jwks-uri",  
+      "AZURE_AD_AUDIENCE": "your-audience",
+      "AZURE_AD_ISSUER": "your-issuer"
+    }
+  }
+  

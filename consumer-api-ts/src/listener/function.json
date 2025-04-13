@@ -1,0 +1,12 @@
+{
+    "bindings": [
+      {
+        "name": "message",
+        "type": "serviceBusTrigger",
+        "direction": "in",
+        "queueName": "your-queue-name",       
+        "connection": "AzureWebJobsServiceBus"  
+      }
+    ]
+  }
+  
